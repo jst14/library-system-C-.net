@@ -519,6 +519,7 @@
         private System.Windows.Forms.DateTimePicker DateBorrowedPicker;
         private System.Windows.Forms.Label DateBorrowedlbl;
         private System.Windows.Forms.ComboBox ChooseBooktxtbox;
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         private System.Windows.Forms.Button BorrowBtn;
         private System.Windows.Forms.Label DateDuelbl;
         private System.Windows.Forms.DateTimePicker DateDuePicker;
@@ -526,6 +527,8 @@
         private System.Windows.Forms.GroupBox BorrowFormgrpbox;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DataGridView dataGridView1;
+        
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.ComboBox YearLvlcomboBox;
         private System.Windows.Forms.Label YearLevellbl;

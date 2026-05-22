@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vs/
 bin/
 obj/
@@ -8,3 +9,10 @@ obj/
 *.pdb
 *.mdb
 *.ldb
+=======
+.vs/ 
+bin/ 
+obj/ 
+*.user 
+*.suo 
+>>>>>>> 85c99f33e8a0410199ad9f2816ef5238f055357c
