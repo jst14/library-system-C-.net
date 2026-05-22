@@ -327,5 +327,10 @@ namespace LibrarySystem
             txtBookID.Enabled = false; // Don't allow editing the ID (accession number)
             SetButtonStates(false, true);
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
